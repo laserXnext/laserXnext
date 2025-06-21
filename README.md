@@ -112,35 +112,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laserXnext&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
 </div>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laserXnext&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laserXnext&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/laserXnext/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laserXnext&repo=project1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/laserXnext/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laserXnext&repo=project2&theme=radical" alt="Project 2" />
-  </a>
-</div>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My First Machine Learning Model](https://yourblog.com/post1)
-- [Optimizing Database Performance in Web Applications](https://yourblog.com/post2)
-- [My Journey Through University as a CS Student](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
