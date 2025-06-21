@@ -2,6 +2,10 @@
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4B59F7&height=250&section=header&text=LaserXNext&fontSize=90&animation=twinkling&fontAlignY=36&fontColor=FFFFFF&desc=Software%20Developer%20|%20Student%20|%20Tech%20Enthusiast&descAlignY=56&descAlign=62&descSize=22&stroke=FFFFFF&strokeWidth=1)
 
+<p align="center">
+  <img src="hero.gif" alt="Project Demo" width="100%">
+</p>
+
 ## 🎓 About Me
 - 🔭 Computer Science student at **University of Bedfordshire**
 - 💡 Passionate about software development and emerging technologies
