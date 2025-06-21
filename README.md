@@ -1,7 +1,7 @@
 # 👋 Hello, I'm LaserXNext
 
 <p align="center">
-  <img src="https://github.com/laserXnext/laserXnext/blob/main/hero.gif" alt="Project Demo" width="600">
+  <img src="https://github.com/laserXnext/laserXnext/blob/main/hero.gif" alt="Project Demo" width="100%">
 </p>
 
 ## 🎓 About Me
